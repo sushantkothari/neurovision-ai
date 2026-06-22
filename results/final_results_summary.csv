@@ -1,0 +1,2 @@
+classifier_accuracy,classifier_precision,classifier_recall,classifier_f1,segmentation_loss,segmentation_dice,segmentation_iou,segmentation_pixel_acc
+0.972987149226331,0.9771228359439407,0.9599109131403119,0.9684404044530691,0.20879813970304004,0.7958801751043282,0.7300347446226606,0.9982362769398034
