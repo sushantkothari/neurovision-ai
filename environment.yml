@@ -1,0 +1,32 @@
+name: neurovision-ai
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pytorch==2.0.1
+  - torchvision==0.15.2
+  - torchaudio==2.0.2
+  - pytorch-cuda=11.8
+  - jupyterlab==4.0.5
+  - notebook==7.0.3
+  - ipykernel==6.25.2
+  - numpy==1.24.3
+  - pandas==2.0.3
+  - scipy==1.11.2
+  - scikit-learn==1.3.0
+  - matplotlib==3.7.2
+  - seaborn==0.12.2
+  - h5py==3.9.0
+  - tqdm==4.66.1
+  - pip
+  - pip:
+      - timm==0.9.7
+      - albumentations==1.3.1
+      - opencv-python==4.8.0.76
+      - Pillow==10.0.0
+      - scikit-image==0.21.0
+      - einops==0.7.0
+      - PyYAML==6.0.1
