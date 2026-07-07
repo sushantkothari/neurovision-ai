@@ -372,10 +372,6 @@ neurovision-ai-brain-tumor-detection/
 |                   +-- data/
 |                       +-- volume_*_slice_*.h5
 |
-+-- models/
-|   +-- classifier_weights.pth
-|   +-- segmentation_weights.pth
-|
 +-- results/
 |   +-- metrics.csv
 |   +-- qualitative_predictions/
