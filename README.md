@@ -383,6 +383,7 @@ neurovision-ai-brain-tumor-detection/
 +-- assets/
 |   +-- project_figures/
 |
++-- environment.yml
 +-- requirements.txt
 +-- README.md
 ```
