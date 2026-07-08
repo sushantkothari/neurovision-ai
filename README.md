@@ -555,7 +555,7 @@ This project is licensed under the MIT License.
 
 **Sushant Kothari**
 
-GitHub: GitHub: [github.com/sushantkothari](https://github.com/sushantkothari)
+GitHub:(https://github.com/sushantkothari)
 
 ---
 
