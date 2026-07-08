@@ -391,8 +391,8 @@ neurovision-ai-brain-tumor-detection/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/neurovision-ai-brain-tumor-detection.git
-cd neurovision-ai-brain-tumor-detection
+git clone https://github.com/sushantkothari/neurovision-ai
+cd neurovision-ai
 ```
 
 ## 2. Install Dependencies
@@ -442,8 +442,6 @@ Run all cells sequentially from top to bottom.
 
 The repository includes or generates:
 
-- trained classifier weights
-- trained segmentation weights
 - saved metrics
 - qualitative MRI predictions
 - segmentation visualizations
@@ -557,7 +555,7 @@ This project is licensed under the MIT License.
 
 **Sushant Kothari**
 
-GitHub: https://github.com/<your-username>
+GitHub: GitHub: [github.com/sushantkothari](https://github.com/sushantkothari)
 
 ---
 
